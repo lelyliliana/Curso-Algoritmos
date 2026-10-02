@@ -1,53 +1,88 @@
 # Unidad 04 — Decisiones y lógica booleana
 
-## Propósito
-Diseñar algoritmos capaces de elegir entre diferentes caminos según los datos.
+## Qué aprenderás
+Diseñar algoritmos que eligen caminos, construir condiciones correctas, combinar reglas y probar valores límite.
 
-## 1. Condición
-Una condición produce VERDADERO o FALSO.
+## Antes de empezar
+Debes comprender variables, expresiones y operadores relacionales.
+
+# 1. Un algoritmo no siempre hace lo mismo
+
+Problema:
+> Permitir entrada si una persona tiene al menos 18 años.
+
+Para edad 20 hacemos una cosa; para edad 15, otra.
+
+Necesitamos una **decisión**.
+
+# 2. Condición
 
 ```text
 edad >= 18
-nota >= 3
-saldo > 0
 ```
 
-## 2. Decisión simple
+No produce un número: produce VERDADERO o FALSO.
+
+| edad | edad >= 18 |
+|---:|---|
+| 17 | FALSO |
+| 18 | VERDADERO |
+| 25 | VERDADERO |
+
+El valor 18 es un **caso límite** importante.
+
+# 3. Decisión simple
+
 ```text
 SI temperatura > 30 ENTONCES
-  ESCRIBIR "Hace calor"
+    ESCRIBIR "Hace calor"
 FIN SI
 ```
 
-## 3. Decisión doble
+Si la condición es falsa, el bloque simplemente no se ejecuta.
+
+# 4. Decisión doble
+
 ```text
 SI edad >= 18 ENTONCES
-  ESCRIBIR "Mayor de edad"
+    ESCRIBIR "Mayor de edad"
 SINO
-  ESCRIBIR "Menor de edad"
+    ESCRIBIR "Menor de edad"
 FIN SI
 ```
 
-## 4. Decisión múltiple
+Exactamente uno de los caminos se ejecuta.
+
+# 5. Decisiones múltiples
+
+Clasificar nota:
+
 ```text
 SI nota >= 4.5 ENTONCES
-  nivel ← "Excelente"
+    nivel ← "Excelente"
 SINO SI nota >= 3 ENTONCES
-  nivel ← "Aprobado"
+    nivel ← "Aprobado"
 SINO
-  nivel ← "No aprobado"
+    nivel ← "No aprobado"
 FIN SI
 ```
 
-El orden importa.
+## ¿Por qué importa el orden?
 
-## 5. Condiciones compuestas
+Si comprobáramos primero:
 ```text
-SI edad >= 18 Y tieneDocumento ENTONCES
-...
+nota >= 3
+```
+una nota 4.8 entraría allí y nunca llegaría a “Excelente”.
+
+# 6. Condiciones compuestas
+
+```text
+edad >= 18 Y tieneDocumento
 ```
 
-## 6. Tablas de verdad
+Para entrar, ambas deben ser verdaderas.
+
 ### Y
 | A | B | A Y B |
 |---|---|---|
@@ -57,57 +92,147 @@ SI edad >= 18 Y tieneDocumento ENTONCES
 | V | V | V |
 
 ### O
-Solo es falso cuando ambas condiciones son falsas.
+Es verdadero cuando al menos una condición es verdadera.
 
 ### NO
 Invierte el valor lógico.
 
-## 7. Casos límite
-Si una condición dice `edad > 18`, una persona de exactamente 18 queda fuera. Pregunta siempre si corresponde `>` o `>=`.
+# 7. Traducir lenguaje natural
 
-## 8. Comparación de lenguajes
-Pseudocódigo:
+> Puede recibir descuento si es estudiante **o** tiene más de 65 años.
+
 ```text
-SI numero MOD 2 = 0 ENTONCES
-  ESCRIBIR "Par"
+esEstudiante O edad > 65
+```
+
+> Puede ingresar si es mayor de edad **y** tiene entrada.
+
+```text
+edad >= 18 Y tieneEntrada
+```
+
+No programes hasta poder escribir la regla claramente.
+
+# 8. Paréntesis
+
+```text
+esClientePremium O (compra >= 100000 Y tieneCupon)
+```
+
+Los paréntesis dejan clara la intención.
+
+# 9. Ejemplo resuelto — descuento
+
+Reglas:
+- compra < 100000: 0%;
+- 100000 a <200000: 5%;
+- >=200000: 10%.
+
+```text
+SI compra >= 200000 ENTONCES
+    descuento ← 0.10
+SINO SI compra >= 100000 ENTONCES
+    descuento ← 0.05
 SINO
-  ESCRIBIR "Impar"
+    descuento ← 0
+FIN SI
+
+total ← compra * (1 - descuento)
+```
+
+## Pruebas
+| compra | descuento |
+|---:|---:|
+| 99999 | 0% |
+| 100000 | 5% |
+| 199999 | 5% |
+| 200000 | 10% |
+
+Los límites revelan errores mejor que probar solo 150000.
+
+# 10. Condiciones solapadas
+
+Reglas mal diseñadas:
+- niño: edad <= 12;
+- adolescente: edad >= 12 y <=17.
+
+Edad 12 pertenece a ambas.
+
+Antes de escribir SI, corrige la definición.
+
+# 11. Validación
+
+Si nota debe estar entre 0 y 5:
+
+```text
+SI nota < 0 O nota > 5 ENTONCES
+    ESCRIBIR "Nota inválida"
+SINO
+    // clasificar
 FIN SI
 ```
-Python:
-```python
-if numero % 2 == 0:
-    print("Par")
-else:
-    print("Impar")
-```
-Java:
-```java
-if (numero % 2 == 0) {
-    System.out.println("Par");
-} else {
-    System.out.println("Impar");
-}
-```
-JavaScript:
-```javascript
-if (numero % 2 === 0) {
-  console.log("Par");
-} else {
-  console.log("Impar");
-}
-```
 
-## Ejercicios
+Primero protege el dominio; luego aplica reglas.
+
+# 12. Prueba de escritorio
+
+Para cada decisión registra:
+- entrada;
+- condición evaluada;
+- resultado lógico;
+- camino ejecutado;
+- salida.
+
+# 13. Errores frecuentes
+- Usar > cuando el límite requiere >=.
+- Ordenar mal condiciones múltiples.
+- Crear reglas solapadas.
+- No validar entrada.
+- Escribir condiciones tan complejas que nadie puede explicarlas.
+
+# 14. Ejercicios graduados
+
+## Básicos
 1. Positivo, negativo o cero.
-2. Mayor de dos números.
-3. Mayor de tres números.
-4. Año bisiesto.
-5. Clasificación de una nota.
-6. Validar que una fecha tenga mes entre 1 y 12.
+2. Par/impar.
+3. Mayor de dos.
 
-## Reto — Tarifa de envío
-Calcula una tarifa según peso, zona y si el envío es urgente. Define reglas sin solapamientos, prueba valores en los límites y explica por qué el orden de las decisiones es correcto.
+## Intermedios
+4. Mayor de tres.
+5. Clasificación de nota con validación.
+6. Año bisiesto.
 
-## Qué sigue
-**Unidad 05 — Ciclos, contadores, acumuladores y centinelas**
+## Aplicación
+7. Tarifa por edad y horario.
+8. Acceso según edad, documento y autorización.
+
+# 15. Reto — Tarifa de envío
+
+Define una tarifa según:
+- peso;
+- zona;
+- urgencia.
+
+Tu solución debe:
+1. escribir reglas sin solapamientos;
+2. validar datos;
+3. identificar límites;
+4. crear pseudocódigo;
+5. probar al menos seis casos, incluidos límites.
+
+# 16. Autoevaluación
+1. ¿Qué produce una condición?
+2. ¿Cuándo usar decisión doble?
+3. ¿Por qué importa el orden?
+4. ¿Qué diferencia hay entre Y y O?
+5. ¿Qué es un caso límite?
+6. ¿Qué es una regla solapada?
+
+# 17. Checklist
+- [ ] Traduzco reglas a condiciones.
+- [ ] Manejo límites.
+- [ ] Combino condiciones.
+- [ ] Evito solapamientos.
+- [ ] Pruebo casos normales, límite e inválidos.
+
+Continúa con ciclos.
