@@ -2,7 +2,7 @@
 
 Curso abierto para aprender a **analizar problemas, diseñar soluciones algorítmicas y evaluar su eficiencia** antes de depender de un lenguaje de programación específico.
 
-La ruta comienza con pensamiento algorítmico y representaciones como pseudocódigo y diagramas de flujo. Posteriormente conecta los conceptos con implementaciones prácticas en lenguajes como Python, Java y JavaScript.
+La ruta comienza con pensamiento algorítmico y representaciones como pseudocódigo y diagramas de flujo, y conecta esos conceptos con implementaciones prácticas en Python, Java y JavaScript.
 
 ## Objetivo
 
@@ -97,11 +97,11 @@ El objetivo es comprender la **solución** antes que memorizar sintaxis.
 
 ## Relación con Aprende con Leli
 
-Este curso está diseñado como una base transversal para continuar posteriormente con rutas de Python, Java, desarrollo web y otras áreas de programación.
+Este curso funciona como base transversal de las rutas de Python, Java, desarrollo web, Arduino y otras áreas de programación disponibles en Aprende con Leli.
 
 ## Estado
 
-Primera versión completa de la ruta conceptual disponible. Se continuará ampliando con implementaciones, ejercicios resueltos y recursos visuales.
+Curso disponible con 25 unidades organizadas en ocho niveles.
 
 ## Autora
 
