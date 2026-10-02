@@ -24,45 +24,45 @@ Al finalizar el curso podrás:
 ## Ruta de aprendizaje
 
 ### Nivel 1 — Pensamiento algorítmico
-**Unidad 01.** Problemas, algoritmos y pensamiento computacional  
-**Unidad 02.** Pseudocódigo, diagramas de flujo y pruebas de escritorio
+**[Unidad 01.](unidad01-pensamiento-algoritmico/)** Problemas, algoritmos y pensamiento computacional  
+**[Unidad 02.](unidad02-pseudocodigo-diagramas/)** Pseudocódigo, diagramas de flujo y pruebas de escritorio
 
 ### Nivel 2 — Construcción de algoritmos
-**Unidad 03.** Datos, variables, operadores y expresiones  
-**Unidad 04.** Decisiones y lógica booleana  
-**Unidad 05.** Ciclos, contadores, acumuladores y centinelas  
-**Unidad 06.** Modularización: funciones y procedimientos
+**[Unidad 03.](unidad03-datos-variables-operadores/)** Datos, variables, operadores y expresiones  
+**[Unidad 04.](unidad04-decisiones/)** Decisiones y lógica booleana  
+**[Unidad 05.](unidad05-ciclos/)** Ciclos, contadores, acumuladores y centinelas  
+**[Unidad 06.](unidad06-funciones/)** Modularización: funciones y procedimientos
 
 ### Nivel 3 — Datos y procesamiento
-**Unidad 07.** Arreglos, listas y procesamiento secuencial  
-**Unidad 08.** Matrices y datos bidimensionales  
-**Unidad 09.** Cadenas y procesamiento de texto
+**[Unidad 07.](unidad07-arreglos-listas/)** Arreglos, listas y procesamiento secuencial  
+**[Unidad 08.](unidad08-matrices/)** Matrices y datos bidimensionales  
+**[Unidad 09.](unidad09-cadenas/)** Cadenas y procesamiento de texto
 
 ### Nivel 4 — Algoritmos clásicos
-**Unidad 10.** Búsqueda lineal y búsqueda binaria  
-**Unidad 11.** Algoritmos de ordenamiento básicos  
-**Unidad 12.** Merge Sort, Quick Sort y comparación de algoritmos  
-**Unidad 13.** Recursividad
+**[Unidad 10.](unidad10-busqueda/)** Búsqueda lineal y búsqueda binaria  
+**[Unidad 11.](unidad11-ordenamiento-basico/)** Algoritmos de ordenamiento básicos  
+**[Unidad 12.](unidad12-ordenamiento-avanzado/)** Merge Sort, Quick Sort y comparación de algoritmos  
+**[Unidad 13.](unidad13-recursividad/)** Recursividad
 
 ### Nivel 5 — Eficiencia
-**Unidad 14.** Tiempo, memoria y análisis experimental  
-**Unidad 15.** Introducción a complejidad y notación Big O
+**[Unidad 14.](unidad14-analisis-experimental/)** Tiempo, memoria y análisis experimental  
+**[Unidad 15.](unidad15-big-o/)** Introducción a complejidad y notación Big O
 
 ### Nivel 6 — Estructuras y recorridos
-**Unidad 16.** Pilas y colas  
-**Unidad 17.** Listas, conjuntos y mapas  
-**Unidad 18.** Introducción a árboles  
-**Unidad 19.** Introducción a grafos, BFS y DFS
+**[Unidad 16.](unidad16-pilas-colas/)** Pilas y colas  
+**[Unidad 17.](unidad17-listas-conjuntos-mapas/)** Listas, conjuntos y mapas  
+**[Unidad 18.](unidad18-arboles/)** Introducción a árboles  
+**[Unidad 19.](unidad19-grafos/)** Introducción a grafos, BFS y DFS
 
 ### Nivel 7 — Estrategias de solución
-**Unidad 20.** Divide y vencerás  
-**Unidad 21.** Algoritmos voraces (greedy)  
-**Unidad 22.** Backtracking  
-**Unidad 23.** Introducción a programación dinámica
+**[Unidad 20.](unidad20-divide-venceras/)** Divide y vencerás  
+**[Unidad 21.](unidad21-greedy/)** Algoritmos voraces (greedy)  
+**[Unidad 22.](unidad22-backtracking/)** Backtracking  
+**[Unidad 23.](unidad23-programacion-dinamica/)** Introducción a programación dinámica
 
 ### Nivel 8 — Integración
-**Unidad 24.** Taller de resolución de problemas  
-**Unidad 25.** Proyecto final
+**[Unidad 24.](unidad24-taller-problemas/)** Taller de resolución de problemas  
+**[Unidad 25.](unidad25-proyecto-final/)** Proyecto final
 
 ## Metodología
 
@@ -101,7 +101,7 @@ Este curso está diseñado como una base transversal para continuar posteriormen
 
 ## Estado
 
-Curso en construcción.
+Primera versión completa de la ruta conceptual disponible. Se continuará ampliando con implementaciones, ejercicios resueltos y recursos visuales.
 
 ## Autora
 
