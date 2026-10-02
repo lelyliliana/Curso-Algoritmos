@@ -101,7 +101,7 @@ Este curso funciona como base transversal de las rutas de Python, Java, desarrol
 
 ## Estado
 
-Curso disponible con 25 unidades organizadas en ocho niveles.
+Curso completo con 25 unidades organizadas en ocho niveles, bancos de ejercicios, problemas resueltos, trazas visuales, implementaciones comparativas, taller integrador y proyecto final con rúbrica técnica.
 
 ## Autora
 
