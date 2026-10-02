@@ -1,46 +1,145 @@
-# Unidad 18 — Introducción a árboles
+# Unidad 18 — Árboles
 
-## Propósito
-Comprender estructuras jerárquicas y sus recorridos fundamentales.
+## Qué aprenderás
+Representar jerarquías, identificar propiedades y trazar recorridos y búsquedas en árboles binarios.
 
-## Conceptos
-- nodo;
+# 1. Jerarquía
+
+```text
+raíz
+├── documentos
+│   ├── tesis
+│   └── clases
+└── imagenes
+```
+
+No es una secuencia lineal: existen relaciones padre-hijo.
+
+# 2. Conceptos
+
 - raíz;
-- padre e hijo;
+- padre/hijo;
 - hoja;
 - profundidad;
 - altura;
 - subárbol.
 
-## Árbol binario
-Cada nodo puede tener hasta dos hijos.
+Aclara la convención al contar altura/profundidad: algunas definiciones cuentan aristas y otras nodos.
 
-## Recorridos
-### Preorden
-raíz → izquierda → derecha
+# 3. Árbol binario
 
-### Inorden
-izquierda → raíz → derecha
+```text
+      A
+     / \
+    B   C
+   / \
+  D   E
+```
 
-### Postorden
-izquierda → derecha → raíz
+Cada nodo tiene hasta dos hijos.
 
-## Árbol binario de búsqueda
-Para una regla típica:
-- valores menores a la izquierda;
-- mayores a la derecha.
+# 4. Recorridos
 
-La forma del árbol afecta el costo de las operaciones.
+Preorden (raíz-izquierda-derecha):
+```text
+A B D E C
+```
 
-## Ejercicios
-1. Identifica raíz, hojas y altura.
-2. Obtén los tres recorridos.
-3. Inserta valores en un BST.
-4. Busca un valor.
-5. Compara un árbol equilibrado y uno degenerado.
+Inorden (izquierda-raíz-derecha):
+```text
+D B E A C
+```
 
-## Reto
-Representa un catálogo jerárquico mediante un árbol y diseña un recorrido para mostrar todos sus elementos.
+Postorden (izquierda-derecha-raíz):
+```text
+D E B C A
+```
 
-## Qué sigue
-**Unidad 19 — Grafos, BFS y DFS**
+Traza las visitas; no memorices solo nombres.
+
+# 5. ¿Por qué distintos?
+
+La tarea define el orden. Procesar padre antes de hijos no es igual que procesar hijos antes del padre.
+
+# 6. Árbol binario de búsqueda (BST)
+
+Regla típica:
+```text
+menores < nodo < mayores
+```
+
+Insertando 8,3,10,1,6:
+
+```text
+      8
+     / \
+    3  10
+   / \
+  1   6
+```
+
+# 7. Buscar 6
+
+```text
+6 < 8 → izquierda
+6 > 3 → derecha
+encontrado
+```
+
+Aprovechamos la propiedad de orden.
+
+# 8. La forma importa
+
+Insertar 1,2,3,4,5 en un BST simple puede producir:
+
+```text
+1
+ \
+  2
+   \
+    3
+     \
+      4
+```
+
+Se aproxima a una lista. “Es árbol” no garantiza costo logarítmico.
+
+# 9. Balance
+
+AVL, Red-Black y otras estructuras mantienen propiedades de balance mediante trabajo adicional. Aquí basta comprender por qué importa.
+
+# 10. Práctica guiada
+
+Inserta:
+```text
+8,3,10,1,6,14,4,7,13
+```
+
+Dibuja y obtiene pre/in/postorden.
+
+# 11. Errores frecuentes
+- Árbol binario = BST.
+- Asumir balance.
+- Mezclar convenciones de altura.
+- Memorizar recorridos sin trazarlos.
+
+# 12. Ejercicios
+Raíz/hojas, recorridos, inserción, búsqueda y comparación equilibrado/degenerado.
+
+# 13. Reto
+Representa catálogo jerárquico y elige recorrido para mostrarlo. Justifica.
+
+# 14. Autoevaluación
+1. ¿Binario y BST son iguales?
+2. ¿Qué visita primero preorden?
+3. ¿Por qué inorden de BST produce orden bajo la regla usual?
+4. ¿Por qué forma afecta costo?
+5. ¿Qué es hoja?
+
+# 15. Checklist
+- [ ] Dibujo árboles.
+- [ ] Trazo recorridos.
+- [ ] Inserto/busco BST.
+- [ ] No asumo balance.
+
+Continúa con grafos.
