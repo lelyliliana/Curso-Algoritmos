@@ -1,5 +1,7 @@
 # Curso de Algoritmos y Lógica de Programación
 
+**Versión 1.0**
+
 Curso abierto para aprender a **analizar problemas, diseñar soluciones algorítmicas y evaluar su eficiencia** antes de depender de un lenguaje de programación específico.
 
 La ruta comienza con pensamiento algorítmico y representaciones como pseudocódigo y diagramas de flujo, y conecta esos conceptos con implementaciones prácticas en Python, Java y JavaScript.
