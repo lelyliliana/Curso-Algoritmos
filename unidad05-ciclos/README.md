@@ -1,86 +1,206 @@
 # Unidad 05 — Ciclos, contadores, acumuladores y centinelas
 
-## Propósito
-Resolver problemas que requieren repetir acciones sin copiar instrucciones innecesariamente.
+## Qué aprenderás
+Reconocer cuándo repetir, elegir una repetición apropiada, utilizar contadores/acumuladores y evitar ciclos infinitos.
 
-## 1. ¿Cuándo repetir?
-- Procesar 30 estudiantes.
-- Sumar una lista de ventas.
-- Pedir una contraseña hasta que sea válida.
-- Leer datos hasta recibir una señal de finalización.
+# 1. El problema de copiar instrucciones
 
-## 2. Repetición conocida
+Mostrar 1 a 5 podría escribirse:
+```text
+ESCRIBIR 1
+ESCRIBIR 2
+...
+```
+
+¿Y 1 a 10 000?
+
+Necesitamos expresar **la repetición**, no copiar el trabajo.
+
+# 2. Cuando conocemos la cantidad
+
 ```text
 PARA i ← 1 HASTA 5 HACER
-  ESCRIBIR i
+    ESCRIBIR i
 FIN PARA
 ```
 
-## 3. Repetición condicionada
+Traza:
+
+| iteración | i | salida |
+|---:|---:|---:|
+| 1 | 1 | 1 |
+| 2 | 2 | 2 |
+| ... | ... | ... |
+| 5 | 5 | 5 |
+
+# 3. Cuando no conocemos cuántas veces
+
 ```text
 MIENTRAS saldo > 0 HACER
-  ...
+    ...
 FIN MIENTRAS
 ```
 
-## 4. Contador
+La repetición depende de una condición.
+
+Pregunta fundamental:
+> ¿qué puede hacer que la condición cambie?
+
+# 4. Contador
+
+Cuenta eventos.
+
 ```text
-contador ← contador + 1
+cantidadAprobados ← cantidadAprobados + 1
 ```
 
-## 5. Acumulador
+Debe inicializarse antes.
+
+# 5. Acumulador
+
+Suma valores.
+
 ```text
-total ← total + valor
+totalVentas ← totalVentas + venta
 ```
 
-## 6. Centinela
+Inicialmente suele ser 0 para suma.
+
+# 6. Contador ≠ acumulador
+
+Datos: 10,20,30.
+
+Después de procesarlos:
+```text
+contador = 3
+acumulador = 60
+```
+
+Uno cuenta elementos; otro acumula sus valores.
+
+# 7. Centinela
+
+No sabemos cuántas notas llegarán. -1 significa terminar:
+
 ```text
 LEER nota
 MIENTRAS nota ≠ -1 HACER
-  total ← total + nota
-  cantidad ← cantidad + 1
-  LEER nota
+    total ← total + nota
+    cantidad ← cantidad + 1
+    LEER nota
 FIN MIENTRAS
 ```
 
-El valor centinela indica cuándo terminar y no forma parte de los datos.
+El -1 **no forma parte de los datos**.
 
-## 7. Validación repetitiva
+# 8. Promedio y caso vacío
+
+```text
+SI cantidad > 0 ENTONCES
+    promedio ← total / cantidad
+SINO
+    ESCRIBIR "No hay datos"
+FIN SI
+```
+
+Evita división entre cero.
+
+# 9. Mayor y menor
+
+No inicialices el mayor arbitrariamente en 0 si los datos pueden ser negativos.
+
+Una estrategia:
+- leer el primer dato válido;
+- usarlo para inicializar mayor/menor;
+- procesar los siguientes.
+
+# 10. Validación repetitiva
+
 ```text
 LEER edad
 MIENTRAS edad < 0 HACER
-  ESCRIBIR "Dato inválido"
-  LEER edad
+    ESCRIBIR "Dato inválido"
+    LEER edad
 FIN MIENTRAS
 ```
 
-## 8. Riesgo de ciclo infinito
-Toda repetición condicionada debe tener alguna posibilidad de modificar la condición.
+# 11. Ciclo infinito
 
-## 9. Ejemplo — promedio de N valores
 ```text
-LEER cantidad
-suma ← 0
-
-PARA i ← 1 HASTA cantidad HACER
-  LEER valor
-  suma ← suma + valor
-FIN PARA
-
-promedio ← suma / cantidad
-ESCRIBIR promedio
+x ← 1
+MIENTRAS x <= 10 HACER
+    ESCRIBIR x
+FIN MIENTRAS
 ```
 
-## Ejercicios
+x nunca cambia.
+
+Corrección:
+```text
+x ← x + 1
+```
+
+# 12. Ejemplo resuelto — estadísticas
+
+Objetivo: leer N valores y obtener suma, promedio, mayor y menor.
+
+Primero valida N > 0. Lee el primer valor para inicializar suma/mayor/menor y después procesa los restantes.
+
+Esta estrategia evita inventar valores iniciales.
+
+Consulta `ejemplos/problema-resuelto-estadisticas.md`.
+
+# 13. Prueba de escritorio
+
+Para ciclos usa columnas:
+```text
+iteración | dato | contador | acumulador | mayor | menor
+```
+
+No intentes seguir cinco variables mentalmente.
+
+# 14. Errores frecuentes
+- No inicializar.
+- Actualizar contador fuera/dentro del lugar incorrecto.
+- Incluir centinela en cálculos.
+- Dividir entre cero.
+- Inicializar mayor en 0 sin justificar.
+- No modificar condición del MIENTRAS.
+
+# 15. Ejercicios
 1. Tabla de multiplicar.
-2. Suma de 1 a N.
+2. Suma 1..N.
 3. Factorial iterativo.
-4. Contar pares entre 1 y N.
+4. Contar pares.
 5. Promedio de N notas.
-6. Leer números hasta introducir 0 y calcular suma y cantidad.
+6. Leer hasta 0.
+7. Mayor/menor.
+8. Validar entrada hasta ser correcta.
 
-## Reto — Estadísticas de ventas
-Lee ventas hasta recibir un centinela. Calcula cantidad, total, promedio, mayor y menor. Define qué hacer si no se registra ninguna venta.
+# 16. Reto — Estadísticas de ventas
+Lee ventas hasta centinela y calcula:
+- cantidad;
+- total;
+- promedio;
+- mayor;
+- menor.
 
-## Qué sigue
-**Unidad 06 — Modularización: funciones y procedimientos**
+Define qué ocurre si no se registra ninguna venta y realiza una tabla de traza.
+
+# 17. Autoevaluación
+1. ¿Cuándo PARA?
+2. ¿Cuándo MIENTRAS?
+3. ¿Contador vs acumulador?
+4. ¿Qué es centinela?
+5. ¿Cómo evitas incluirlo?
+6. ¿Por qué mayor=0 puede ser incorrecto?
+7. ¿Qué causa un ciclo infinito?
+
+# 18. Checklist
+- [ ] Elijo tipo de repetición.
+- [ ] Inicializo correctamente.
+- [ ] Trazo variables.
+- [ ] Manejo caso vacío.
+- [ ] Evito ciclos infinitos.
+
+Continúa con funciones.
