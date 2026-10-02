@@ -1,6 +1,6 @@
 # Versión 1.0
 
-Estado: **completa y disponible**.
+Estado: **completa, autodidacta y disponible**.
 
 ## Alcance
 
@@ -27,6 +27,8 @@ La versión 1.0 contiene:
 
 ## Criterio de cierre
 
-El curso cubre el recorrido formativo definido y puede utilizarse de manera autónoma desde fundamentos hasta integración.
+El curso puede recorrerse de manera autónoma desde la comprensión inicial de problemas hasta el diseño, análisis, comparación e implementación de soluciones algorítmicas.
 
-Las correcciones o ajustes posteriores se consideran mantenimiento de la versión publicada, no contenido pendiente para completar el curso.
+## Experiencia de aprendizaje
+
+Las unidades combinan explicación conceptual, trazas, ejemplos resueltos, ejercicios, retos, autoevaluación y comprobaciones de avance. Los conceptos se presentan primero de forma independiente del lenguaje y se comparan implementaciones cuando aportan al aprendizaje.
