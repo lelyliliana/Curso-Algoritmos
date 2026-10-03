@@ -1,5 +1,7 @@
 # Unidad 21 — Algoritmos voraces (Greedy)
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Construir decisiones locales, distinguir factibilidad de optimalidad y buscar contraejemplos antes de afirmar que una estrategia greedy es correcta.
 
@@ -108,3 +110,12 @@ Propón greedy de planificación y **trata de romperlo**. Si no hallas contraeje
 - [ ] No afirmo optimalidad sin justificación.
 
 Continúa con backtracking.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 20 — Divide y vencerás](../unidad20-divide-venceras/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 22 — Backtracking](../unidad22-backtracking/README.md)

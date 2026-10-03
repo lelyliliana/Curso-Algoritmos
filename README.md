@@ -1,5 +1,11 @@
 # Curso de Algoritmos y Lógica de Programación
 
+**[Comenzar el curso: Unidad 01 — Problemas, algoritmos y pensamiento computacional](unidad01-pensamiento-algoritmico/README.md)**
+
+Puedes leer las lecciones aquí sin conocer GitHub. Al terminar cada unidad, usa **Siguiente unidad** para avanzar; **Unidad anterior** y **Volver al índice** te permiten regresar.
+
+[Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 **Versión 1.0**
 
 Curso abierto para aprender a **analizar problemas, diseñar soluciones algorítmicas y evaluar su eficiencia** antes de depender de un lenguaje de programación específico.

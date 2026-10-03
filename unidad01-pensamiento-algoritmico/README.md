@@ -1,5 +1,7 @@
 # Unidad 01 — Problemas, algoritmos y pensamiento computacional
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Propósito
 
 Antes de escribir código es necesario aprender a **entender un problema** y convertirlo en una secuencia de pasos que pueda ejecutarse y comprobarse.
@@ -544,3 +546,11 @@ Continúa con:
 ## Idea clave
 
 > Programar no comienza escribiendo código. Comienza comprendiendo qué problema necesitas resolver.
+
+
+---
+
+## Continuar el curso
+
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 02 — Pseudocódigo, diagramas de flujo y pruebas de escritorio](../unidad02-pseudocodigo-diagramas/README.md)

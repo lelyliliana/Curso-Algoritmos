@@ -1,5 +1,7 @@
 # Unidad 25 — Proyecto final
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Propósito
 
 Demostrar que puedes convertir un problema abierto en una solución algorítmica explicable, comprobable y analizada.
@@ -200,3 +202,13 @@ Una extensión no compensa fundamentos incompletos.
 # Cierre
 
 > Un buen algoritmo no es solamente el que produce una respuesta: es el que puedes explicar, comprobar, comparar y mejorar.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 24 — Taller integrador de resolución de problemas](../unidad24-taller-problemas/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+
+Llegaste a la última unidad. Revisa tu proyecto y la lista de comprobación antes de dar por terminado el curso.

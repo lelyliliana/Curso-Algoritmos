@@ -1,5 +1,7 @@
 # Unidad 16 — Pilas y colas
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Elegir una estructura cuando el orden de entrada/salida es parte esencial del problema.
 
@@ -145,3 +147,12 @@ Diseña simulador de atención. Define eventos, cola, caso vacío y métricas b�
 - [ ] Manejo estructura vacía.
 
 Continúa con conjuntos y mapas.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 15 — Complejidad y notación Big O](../unidad15-big-o/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 17 — Listas, conjuntos y mapas](../unidad17-listas-conjuntos-mapas/README.md)

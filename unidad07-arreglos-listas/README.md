@@ -1,5 +1,7 @@
 # Unidad 07 — Arreglos, listas y procesamiento secuencial
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Representar colecciones, recorrerlas, trabajar con índices y reconocer patrones de suma, conteo, búsqueda, máximo y transformación.
 
@@ -177,3 +179,12 @@ Analiza temperaturas: promedio, máxima, mínima, cantidad sobre promedio y posi
 - [ ] Trazo el algoritmo.
 
 Continúa con matrices.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 06 — Modularización: funciones y procedimientos](../unidad06-funciones/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 08 — Matrices y datos bidimensionales](../unidad08-matrices/README.md)

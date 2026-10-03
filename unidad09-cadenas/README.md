@@ -1,5 +1,7 @@
 # Unidad 09 — Cadenas y procesamiento de texto
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Tratar texto como secuencia, normalizar según reglas explícitas y resolver conteos, búsquedas y comparaciones.
 
@@ -168,3 +170,12 @@ Analizador: caracteres, palabras, vocales, frecuencia de palabras y palabra más
 - [ ] Documento reglas lingüísticas.
 
 Continúa con búsqueda.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 08 — Matrices y datos bidimensionales](../unidad08-matrices/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 10 — Búsqueda lineal y búsqueda binaria](../unidad10-busqueda/README.md)

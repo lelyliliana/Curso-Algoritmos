@@ -1,5 +1,7 @@
 # Unidad 05 — Ciclos, contadores, acumuladores y centinelas
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Reconocer cuándo repetir, elegir una repetición apropiada, utilizar contadores/acumuladores y evitar ciclos infinitos.
 
@@ -204,3 +206,12 @@ Define qué ocurre si no se registra ninguna venta y realiza una tabla de traza.
 - [ ] Evito ciclos infinitos.
 
 Continúa con funciones.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 04 — Decisiones y lógica booleana](../unidad04-decisiones/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 06 — Modularización: funciones y procedimientos](../unidad06-funciones/README.md)

@@ -1,5 +1,7 @@
 # Unidad 18 — Árboles
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Representar jerarquías, identificar propiedades y trazar recorridos y búsquedas en árboles binarios.
 
@@ -143,3 +145,12 @@ Representa catálogo jerárquico y elige recorrido para mostrarlo. Justifica.
 - [ ] No asumo balance.
 
 Continúa con grafos.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 17 — Listas, conjuntos y mapas](../unidad17-listas-conjuntos-mapas/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 19 — Grafos, BFS y DFS](../unidad19-grafos/README.md)

@@ -1,5 +1,7 @@
 # Unidad 10 — Búsqueda lineal y búsqueda binaria
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Localizar elementos, trazar comparaciones y comprender por qué la búsqueda binaria exige una propiedad previa: orden.
 
@@ -177,3 +179,12 @@ Compara número de comparaciones para tamaños crecientes. No midas solo tiempo:
 - [ ] Elijo estrategia según contexto.
 
 Continúa con ordenamientos.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 09 — Cadenas y procesamiento de texto](../unidad09-cadenas/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 11 — Ordenamientos básicos](../unidad11-ordenamiento-basico/README.md)

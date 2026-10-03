@@ -1,5 +1,7 @@
 # Unidad 14 — Tiempo, memoria y análisis experimental
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Diseñar experimentos reproducibles, medir distintas dimensiones y separar observación de conclusión.
 
@@ -144,3 +146,12 @@ Compara dos algoritmos, crea tabla, gráfica si quieres y redacta resultados sep
 - [ ] Interpreto prudentemente.
 
 Continúa con Big O.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 13 — Recursividad](../unidad13-recursividad/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 15 — Complejidad y notación Big O](../unidad15-big-o/README.md)

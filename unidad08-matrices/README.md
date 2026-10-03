@@ -1,5 +1,7 @@
 # Unidad 08 — Matrices y datos bidimensionales
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Representar filas/columnas, acceder por coordenadas y construir recorridos bidimensionales.
 
@@ -152,3 +154,12 @@ Registro de notas: promedio por estudiante, por actividad y estudiante con mayor
 - [ ] No asumo matriz cuadrada.
 
 Continúa con cadenas.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 07 — Arreglos, listas y procesamiento secuencial](../unidad07-arreglos-listas/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 09 — Cadenas y procesamiento de texto](../unidad09-cadenas/README.md)

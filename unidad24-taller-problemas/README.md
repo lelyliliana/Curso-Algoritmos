@@ -1,5 +1,7 @@
 # Unidad 24 — Taller integrador de resolución de problemas
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Propósito
 
 Hasta aquí cada unidad te presentaba una estrategia. Ahora el enunciado **no te dirá qué usar**.
@@ -166,3 +168,12 @@ Después entrégasela a otra persona —o reléela al día siguiente— e intent
 - [ ] Puedo aprender una técnica nueva explicando sus supuestos.
 
 Continúa con el proyecto final.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 23 — Programación dinámica](../unidad23-programacion-dinamica/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 25 — Proyecto final](../unidad25-proyecto-final/README.md)

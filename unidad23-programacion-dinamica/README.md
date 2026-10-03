@@ -1,5 +1,7 @@
 # Unidad 23 — Programación dinámica
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Detectar subproblemas repetidos, definir estado/transición y resolver mediante memoización o tabulación.
 
@@ -160,3 +162,12 @@ Resuelve un problema pequeño por exploración recursiva y después reutiliza su
 - [ ] Puedo reconstruir si hace falta.
 
 Continúa con taller integrador.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 22 — Backtracking](../unidad22-backtracking/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 24 — Taller integrador de resolución de problemas](../unidad24-taller-problemas/README.md)

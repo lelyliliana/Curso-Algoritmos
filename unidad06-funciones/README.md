@@ -1,5 +1,7 @@
 # Unidad 06 — Modularización: funciones y procedimientos
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Dividir problemas, diseñar contratos de funciones, usar parámetros/retornos y comprobar módulos de forma aislada.
 
@@ -207,3 +209,12 @@ Para cada función documenta entradas, salida y pruebas.
 - [ ] Pruebo módulos aislados.
 
 Continúa con arreglos y listas.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 05 — Ciclos, contadores, acumuladores y centinelas](../unidad05-ciclos/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 07 — Arreglos, listas y procesamiento secuencial](../unidad07-arreglos-listas/README.md)

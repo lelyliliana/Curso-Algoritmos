@@ -1,5 +1,7 @@
 # Unidad 11 — Ordenamientos básicos
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Comprender Bubble, Selection e Insertion Sort mediante invariantes intuitivas, trazas y comparación de trabajo.
 
@@ -142,3 +144,12 @@ Implementa/representa los tres, genera varias entradas y explica qué observaste
 - [ ] Comparo con contexto.
 
 Continúa con Merge/Quick.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 10 — Búsqueda lineal y búsqueda binaria](../unidad10-busqueda/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 12 — Merge Sort, Quick Sort y comparación](../unidad12-ordenamiento-avanzado/README.md)

@@ -1,5 +1,7 @@
 # Unidad 02 — Pseudocódigo, diagramas de flujo y pruebas de escritorio
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Propósito
 
 En la unidad anterior aprendiste a analizar un problema antes de escribir código. Ahora aprenderás a **representar la solución** de forma clara y verificable.
@@ -757,3 +759,12 @@ Continúa con:
 ## Idea clave
 
 > Si puedes representar y probar una solución sin depender de un lenguaje, comprenderás mejor el código cuando llegue el momento de implementarla.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 01 — Problemas, algoritmos y pensamiento computacional](../unidad01-pensamiento-algoritmico/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 03 — Datos, variables, operadores y expresiones](../unidad03-datos-variables-operadores/README.md)

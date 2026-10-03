@@ -1,5 +1,7 @@
 # Unidad 17 — Listas, conjuntos y mapas
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Elegir estructuras según orden, duplicados, pertenencia y asociación clave→valor.
 
@@ -128,3 +130,12 @@ Procesa transacciones y genera total por categoría. Justifica el mapa.
 - [ ] No asumo orden/costo sin contrato.
 
 Continúa con árboles.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 16 — Pilas y colas](../unidad16-pilas-colas/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 18 — Árboles](../unidad18-arboles/README.md)

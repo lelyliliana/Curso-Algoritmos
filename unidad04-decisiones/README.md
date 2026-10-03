@@ -1,5 +1,7 @@
 # Unidad 04 — Decisiones y lógica booleana
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Diseñar algoritmos que eligen caminos, construir condiciones correctas, combinar reglas y probar valores límite.
 
@@ -236,3 +238,12 @@ Tu solución debe:
 - [ ] Pruebo casos normales, límite e inválidos.
 
 Continúa con ciclos.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 03 — Datos, variables, operadores y expresiones](../unidad03-datos-variables-operadores/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 05 — Ciclos, contadores, acumuladores y centinelas](../unidad05-ciclos/README.md)

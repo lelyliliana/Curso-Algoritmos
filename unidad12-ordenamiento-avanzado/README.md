@@ -1,5 +1,7 @@
 # Unidad 12 — Merge Sort, Quick Sort y comparación
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Comprender divide y vencerás aplicado al ordenamiento y comparar algoritmos sin reducir todo a “más rápido”.
 
@@ -135,3 +137,12 @@ Diseña comparación reproducible entre tres algoritmos y separa conclusiones te
 - [ ] Evito absolutos sin contexto.
 
 Continúa con recursividad.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 11 — Ordenamientos básicos](../unidad11-ordenamiento-basico/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 13 — Recursividad](../unidad13-recursividad/README.md)

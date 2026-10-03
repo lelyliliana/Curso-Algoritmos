@@ -1,5 +1,7 @@
 # Unidad 19 — Grafos, BFS y DFS
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Modelar redes, representar adyacencias y recorrer grafos controlando ciclos.
 
@@ -144,3 +146,12 @@ Modela ciudades. Desde una ciudad encuentra alcanzables y un camino con mínimo 
 - [ ] Comprendo límites de BFS.
 
 Continúa con estrategias.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 18 — Árboles](../unidad18-arboles/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 20 — Divide y vencerás](../unidad20-divide-venceras/README.md)

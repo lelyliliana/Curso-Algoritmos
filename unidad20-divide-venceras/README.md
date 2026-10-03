@@ -1,5 +1,7 @@
 # Unidad 20 — Divide y vencerás
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Reconocer problemas divisibles, definir caso base, resolver subproblemas y combinar resultados.
 
@@ -120,3 +122,12 @@ Diseña una solución divide-y-vencerás y compárala con alternativa directa.
 - [ ] Comparo alternativa.
 
 Continúa con greedy.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 19 — Grafos, BFS y DFS](../unidad19-grafos/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 21 — Algoritmos voraces (Greedy)](../unidad21-greedy/README.md)

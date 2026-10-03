@@ -1,5 +1,7 @@
 # Unidad 22 — Backtracking
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Explorar un espacio de decisiones, construir estados parciales y retroceder cuando una rama deja de ser viable.
 
@@ -119,3 +121,12 @@ Diseña asignador pequeño. Dibuja árbol, restricciones y podas justificadas.
 - [ ] Justifico poda.
 
 Continúa con programación dinámica.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 21 — Algoritmos voraces (Greedy)](../unidad21-greedy/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 23 — Programación dinámica](../unidad23-programacion-dinamica/README.md)

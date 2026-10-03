@@ -1,5 +1,7 @@
 # Unidad 03 — Datos, variables, operadores y expresiones
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Propósito
 Aprender a representar información dentro de un algoritmo y construir expresiones correctas antes de implementar una solución.
 
@@ -146,3 +148,12 @@ Diseña un algoritmo que calcule el costo de un viaje conociendo distancia, rend
 
 ## Qué sigue
 **Unidad 04 — Decisiones y lógica booleana**
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 02 — Pseudocódigo, diagramas de flujo y pruebas de escritorio](../unidad02-pseudocodigo-diagramas/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 04 — Decisiones y lógica booleana](../unidad04-decisiones/README.md)

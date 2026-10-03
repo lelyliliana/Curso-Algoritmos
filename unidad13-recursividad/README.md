@@ -1,5 +1,7 @@
 # Unidad 13 — Recursividad
 
+[Volver al índice del curso](../README.md) · [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
+
 ## Qué aprenderás
 Diseñar una solución recursiva con caso base y progreso, trazar la pila de llamadas y comparar con alternativas iterativas.
 
@@ -159,3 +161,12 @@ Resuelve el mismo problema iterativa y recursivamente. Compara claridad, número
 - [ ] Considero memoria.
 
 Continúa con análisis experimental.
+
+
+---
+
+## Continuar el curso
+
+- **Unidad anterior:** [Unidad 12 — Merge Sort, Quick Sort y comparación](../unidad12-ordenamiento-avanzado/README.md)
+- **Volver al índice:** [Todas las unidades](../README.md)
+- **Siguiente unidad:** [Unidad 14 — Tiempo, memoria y análisis experimental](../unidad14-analisis-experimental/README.md)
