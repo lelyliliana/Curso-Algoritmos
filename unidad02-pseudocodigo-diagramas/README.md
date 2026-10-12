@@ -768,3 +768,11 @@ Continúa con:
 - **Unidad anterior:** [Unidad 01 — Problemas, algoritmos y pensamiento computacional](../unidad01-pensamiento-algoritmico/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
 - **Siguiente unidad:** [Unidad 03 — Datos, variables, operadores y expresiones](../unidad03-datos-variables-operadores/README.md)
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Unidad%2002.%20Pseudoc%C3%B3digo%2C%20diagramas%20de%20flujo%20y%20pruebas%20de%20escritorio%20del%20curso%20Algoritmos%20y%20l%C3%B3gica%20de%20programaci%C3%B3n%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FCurso-Algoritmos%2Ftree%2Fmain%2Funidad02-pseudocodigo-diagramas%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)

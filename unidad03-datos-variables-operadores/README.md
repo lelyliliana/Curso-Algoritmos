@@ -157,3 +157,11 @@ Diseña un algoritmo que calcule el costo de un viaje conociendo distancia, rend
 - **Unidad anterior:** [Unidad 02 — Pseudocódigo, diagramas de flujo y pruebas de escritorio](../unidad02-pseudocodigo-diagramas/README.md)
 - **Volver al índice:** [Todas las unidades](../README.md)
 - **Siguiente unidad:** [Unidad 04 — Decisiones y lógica booleana](../unidad04-decisiones/README.md)
+
+---
+
+### ¿Necesitas apoyo con este tema?
+
+Si te bloqueaste con la práctica, necesitas revisar tu entorno o adaptar lo aprendido a tu proyecto, podemos trabajarlo en una sesión personalizada.
+
+[**Solicitar asesoría para este tema por WhatsApp**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20estudiando%20Unidad%2003.%20Datos%2C%20variables%2C%20operadores%20y%20expresiones%20del%20curso%20Algoritmos%20y%20l%C3%B3gica%20de%20programaci%C3%B3n%20%28https%3A%2F%2Fgithub.com%2Flelyliliana%2FCurso-Algoritmos%2Ftree%2Fmain%2Funidad03-datos-variables-operadores%29%20y%20necesito%20una%20asesor%C3%ADa%20personalizada.%20Mi%20duda%20es%E2%80%A6)
