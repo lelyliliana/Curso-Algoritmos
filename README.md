@@ -116,3 +116,15 @@ Curso completo con 25 unidades organizadas en ocho niveles, bancos de ejercicios
 **Leli Liliana Díaz Izquierdo**
 
 Ingeniera de Sistemas · Docente investigadora · Tecnología, educación e investigación.
+
+---
+
+### ¿Necesitas acompañamiento personalizado?
+
+Puedes estudiar este curso por tu cuenta. Si necesitas apoyo para configurar el entorno, comprender o resolver un error, o aplicar lo aprendido a tu tesis o proyecto, podemos trabajarlo en una sesión individual.
+
+- **Preparar el entorno:** revisar la instalación y configuración de herramientas y dependencias.
+- **Comprender y resolver errores:** analizar lo que ocurre y trabajar en una solución.
+- **Aplicarlo a tu proyecto:** te acompaño a comprender el contenido y adaptarlo a tu caso.
+
+[**Solicitar asesoría sobre este curso**](https://wa.me/573103618296?text=Hola%2C%20Leli.%20Estoy%20revisando%20el%20curso%20de%20Algoritmos%20y%20l%C3%B3gica%20de%20programaci%C3%B3n%20(lelyliliana%2FCurso-Algoritmos)%20y%20me%20interesa%20una%20asesor%C3%ADa%20personalizada.%20Necesito%20apoyo%20con%E2%80%A6)
