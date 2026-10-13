@@ -153,6 +153,13 @@ Continúa con estructuras.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Big O y crecimiento observado.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 14 — Tiempo, memoria y análisis experimental](../unidad14-analisis-experimental/README.md)

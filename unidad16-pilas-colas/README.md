@@ -151,6 +151,13 @@ Continúa con conjuntos y mapas.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Pilas, colas y validación de delimitadores.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 15 — Complejidad y notación Big O](../unidad15-big-o/README.md)

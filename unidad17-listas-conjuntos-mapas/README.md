@@ -134,6 +134,13 @@ Continúa con árboles.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Mapas y frecuencias.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 16 — Pilas y colas](../unidad16-pilas-colas/README.md)

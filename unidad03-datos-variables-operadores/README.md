@@ -152,6 +152,13 @@ Diseña un algoritmo que calcule el costo de un viaje conociendo distancia, rend
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Conversión de tiempo con división y resto.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 02 — Pseudocódigo, diagramas de flujo y pruebas de escritorio](../unidad02-pseudocodigo-diagramas/README.md)

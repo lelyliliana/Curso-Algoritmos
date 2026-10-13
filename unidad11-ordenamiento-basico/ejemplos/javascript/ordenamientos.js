@@ -29,3 +29,11 @@ function insercion(datos) {
   }
   return a;
 }
+
+if (typeof module !== "undefined") {
+  module.exports = { burbuja, seleccion, insercion };
+  if (require.main === module) {
+    const entrada = [4, 1, 3, 1];
+    console.log(JSON.stringify({burbuja: burbuja(entrada), seleccion: seleccion(entrada), insercion: insercion(entrada), entrada}));
+  }
+}

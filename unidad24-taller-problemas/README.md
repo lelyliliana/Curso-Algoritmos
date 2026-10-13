@@ -172,6 +172,13 @@ Continúa con el proyecto final.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Taller: comparar estrategias con un criterio verificable.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 23 — Programación dinámica](../unidad23-programacion-dinamica/README.md)

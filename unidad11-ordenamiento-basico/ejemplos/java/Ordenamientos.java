@@ -34,4 +34,11 @@ public class Ordenamientos {
         }
         return a;
     }
+    public static void main(String[] args) {
+        int[] datos = {4, 1, 3, 1};
+        System.out.println("Burbuja: " + Arrays.toString(burbuja(datos)));
+        System.out.println("Seleccion: " + Arrays.toString(seleccion(datos)));
+        System.out.println("Insercion: " + Arrays.toString(insercion(datos)));
+        System.out.println("Entrada conservada: " + Arrays.toString(datos));
+    }
 }

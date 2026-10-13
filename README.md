@@ -6,11 +6,15 @@ Puedes leer las lecciones aquí sin conocer GitHub. Al terminar cada unidad, usa
 
 [Ver el curso en Aprende con Leli](https://lelyliliana.github.io/aprende-con-leli/cursos/algoritmos/)
 
-**Versión 1.0**
+**Versión 1.1 (problemas resueltos y laboratorios)**
 
 Curso abierto para aprender a **analizar problemas, diseñar soluciones algorítmicas y evaluar su eficiencia** antes de depender de un lenguaje de programación específico.
 
 La ruta comienza con pensamiento algorítmico y representaciones como pseudocódigo y diagramas de flujo, y conecta esos conceptos con implementaciones prácticas en Python, Java y JavaScript.
+
+## Practicar con casos completos
+
+Explora los [25 laboratorios](laboratorios/README.md), prepara [el entorno](docs/ENTORNO.md) y consulta [las verificaciones realizadas](docs/VERIFICACION.md). Cada unidad enlaza contrato, traza, programa, resultado esperado y soluciones razonadas.
 
 ## Objetivo
 

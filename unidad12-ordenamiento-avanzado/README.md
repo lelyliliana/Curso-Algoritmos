@@ -141,6 +141,13 @@ Continúa con recursividad.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Merge Sort y Quick Sort: contratos y memoria.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 11 — Ordenamientos básicos](../unidad11-ordenamiento-basico/README.md)

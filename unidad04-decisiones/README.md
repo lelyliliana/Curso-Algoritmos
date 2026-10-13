@@ -242,6 +242,13 @@ Continúa con ciclos.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Decisiones y límites de un descuento.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 03 — Datos, variables, operadores y expresiones](../unidad03-datos-variables-operadores/README.md)

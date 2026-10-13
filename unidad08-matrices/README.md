@@ -158,6 +158,13 @@ Continúa con cadenas.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Matrices y validación de dimensiones.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 07 — Arreglos, listas y procesamiento secuencial](../unidad07-arreglos-listas/README.md)

@@ -149,6 +149,13 @@ Continúa con grafos.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Árboles y recorrido inorden.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 17 — Listas, conjuntos y mapas](../unidad17-listas-conjuntos-mapas/README.md)

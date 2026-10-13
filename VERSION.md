@@ -1,34 +1,17 @@
-# Versión 1.0
+# Versión 1.1: problemas resueltos y verificación
 
-Estado: **completa, autodidacta y disponible**.
+Fecha: 2026-10-13.
 
-## Alcance
+Se conserva el recorrido 1–25 y los ejemplos originales. Se añaden 25 laboratorios,25 soluciones razonadas y 25 casos completos en Python, junto con versiones Java/JavaScript de las tres estrategias avanzadas.
 
-La versión 1.0 contiene:
+## Qué mejoró
 
-- 25 unidades en ocho niveles;
-- pensamiento algorítmico y representación de soluciones;
-- datos, decisiones, ciclos y modularización;
-- arreglos, matrices y cadenas;
-- búsquedas y ordenamientos;
-- recursividad;
-- análisis experimental y Big O;
-- pilas, colas, conjuntos, mapas, árboles y grafos;
-- BFS y DFS;
-- divide y vencerás, greedy, backtracking y programación dinámica;
-- implementaciones comparativas en Python, Java y JavaScript donde aportan al aprendizaje;
-- problemas resueltos y trazas paso a paso;
-- bancos de ejercicios y retos;
-- taller integrador;
-- proyecto final;
-- plantilla de proyecto;
-- rúbrica técnica;
-- checklist de entrega.
+Contratos, fronteras, tablas de ejecución, casos vacíos/invalidación, costos reales y preservación de entrada. Greedy distingue una regla correcta para interva los de una heurística que falla en cambio de monedas. Backtracking conserva índices y deshace elecciones. DP incluye recurrencia, estados imposibles y reconstrucción de una combinación mínima.
 
-## Criterio de cierre
+Las unidades 24/25 incorporan comparación bajo un criterio y una base funcional FIFO para asignar cupos. La base no se presenta como una aplicación web con usuarios o persistencia.
 
-El curso puede recorrerse de manera autónoma desde la comprensión inicial de problemas hasta el diseño, análisis, comparación e implementación de soluciones algorítmicas.
+## Límites de implementación
 
-## Experiencia de aprendizaje
+La búsqueda binaria exige orden ascendente; verificarlo tiene costo adicional. Quick Sort usa listas temporales, no partición in-place; inorder utiliza concatenaciones y puede tener costo cuadrático en árboles sesgados. Los conteos experimentales no son benchmarks de rendimiento. DP de monedas es pseudopolinómica respecto al total representado en bits. La recursión y el número de soluciones tienen límites prácticos.
 
-Las unidades combinan explicación conceptual, trazas, ejemplos resueltos, ejercicios, retos, autoevaluación y comprobaciones de avance. Los conceptos se presentan primero de forma independiente del lenguaje y se comparan implementaciones cuando aportan al aprendizaje.
+Consulta docs/VERIFICACION.md para pruebas realizadas y docs/EVIDENCIAS.md para conservar tu propia argumentación.

@@ -210,6 +210,13 @@ Continúa con funciones.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Ciclos y acumuladores sobre una colección.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 04 — Decisiones y lógica booleana](../unidad04-decisiones/README.md)

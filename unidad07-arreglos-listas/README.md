@@ -183,6 +183,13 @@ Continúa con matrices.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Recorridos de listas sin perder información.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 06 — Modularización: funciones y procedimientos](../unidad06-funciones/README.md)

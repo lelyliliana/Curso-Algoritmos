@@ -166,6 +166,13 @@ Continúa con taller integrador.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Programación dinámica: mínimo de monedas y escaleras.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 22 — Backtracking](../unidad22-backtracking/README.md)

@@ -206,6 +206,13 @@ Una extensión no compensa fundamentos incompletos.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Proyecto final: asignación FIFO de cupos.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 24 — Taller integrador de resolución de problemas](../unidad24-taller-problemas/README.md)

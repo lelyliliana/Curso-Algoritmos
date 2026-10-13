@@ -1,0 +1,102 @@
+[
+  {
+    "unidad": 1,
+    "programa": "unidad01-pensamiento-algoritmico/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 2,
+    "programa": "unidad02-pseudocodigo-diagramas/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 3,
+    "programa": "unidad03-datos-variables-operadores/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 4,
+    "programa": "unidad04-decisiones/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 5,
+    "programa": "unidad05-ciclos/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 6,
+    "programa": "unidad06-funciones/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 7,
+    "programa": "unidad07-arreglos-listas/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 8,
+    "programa": "unidad08-matrices/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 9,
+    "programa": "unidad09-cadenas/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 10,
+    "programa": "unidad10-busqueda/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 11,
+    "programa": "unidad11-ordenamiento-basico/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 12,
+    "programa": "unidad12-ordenamiento-avanzado/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 13,
+    "programa": "unidad13-recursividad/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 14,
+    "programa": "unidad14-analisis-experimental/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 15,
+    "programa": "unidad15-big-o/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 16,
+    "programa": "unidad16-pilas-colas/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 17,
+    "programa": "unidad17-listas-conjuntos-mapas/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 18,
+    "programa": "unidad18-arboles/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 19,
+    "programa": "unidad19-grafos/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 20,
+    "programa": "unidad20-divide-venceras/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 21,
+    "programa": "unidad21-greedy/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 22,
+    "programa": "unidad22-backtracking/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 23,
+    "programa": "unidad23-programacion-dinamica/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 24,
+    "programa": "unidad24-taller-problemas/ejemplos/caso_completo.py"
+  },
+  {
+    "unidad": 25,
+    "programa": "unidad25-proyecto-final/ejemplos/caso_completo.py"
+  }
+]

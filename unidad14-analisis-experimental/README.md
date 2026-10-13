@@ -150,6 +150,13 @@ Continúa con Big O.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Experimentos con conteo de operaciones.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 13 — Recursividad](../unidad13-recursividad/README.md)

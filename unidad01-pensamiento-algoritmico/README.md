@@ -550,6 +550,13 @@ Continúa con:
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Del problema a entradas, reglas y salidas.
+
 ## Continuar el curso
 
 - **Volver al índice:** [Todas las unidades](../README.md)

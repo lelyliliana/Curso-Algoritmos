@@ -114,6 +114,13 @@ Continúa con backtracking.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Greedy: selección de intervalos y contraejemplo de cambio.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 20 — Divide y vencerás](../unidad20-divide-venceras/README.md)

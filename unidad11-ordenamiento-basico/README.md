@@ -148,6 +148,13 @@ Continúa con Merge/Quick.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Ordenamiento por inserción y estabilidad.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 10 — Búsqueda lineal y búsqueda binaria](../unidad10-busqueda/README.md)

@@ -183,6 +183,13 @@ Continúa con ordenamientos.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Búsqueda lineal y binaria con duplicados.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 09 — Cadenas y procesamiento de texto](../unidad09-cadenas/README.md)

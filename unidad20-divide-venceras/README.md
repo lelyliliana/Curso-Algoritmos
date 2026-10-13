@@ -126,6 +126,13 @@ Continúa con greedy.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Divide y vencerás para un máximo.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 19 — Grafos, BFS y DFS](../unidad19-grafos/README.md)

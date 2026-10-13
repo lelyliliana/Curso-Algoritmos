@@ -213,6 +213,13 @@ Continúa con arreglos y listas.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Funciones con contrato y resultado.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 05 — Ciclos, contadores, acumuladores y centinelas](../unidad05-ciclos/README.md)

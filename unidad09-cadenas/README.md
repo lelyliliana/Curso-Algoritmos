@@ -174,6 +174,13 @@ Continúa con búsqueda.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Cadenas y normalización explícita.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 08 — Matrices y datos bidimensionales](../unidad08-matrices/README.md)

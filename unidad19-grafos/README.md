@@ -150,6 +150,13 @@ Continúa con estrategias.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Grafos y BFS: distancias y caminos.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 18 — Árboles](../unidad18-arboles/README.md)

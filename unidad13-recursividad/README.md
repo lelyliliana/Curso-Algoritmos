@@ -165,6 +165,13 @@ Continúa con análisis experimental.
 
 ---
 
+
+## Caso completo y práctica autodidacta
+
+Consulta el [laboratorio con contrato, traza, programa y resultado esperado](LABORATORIO.md) y las [soluciones razonadas](SOLUCIONES.md).
+
+**Problema de referencia:** Recursividad: factorial con dominio acotado.
+
 ## Continuar el curso
 
 - **Unidad anterior:** [Unidad 12 — Merge Sort, Quick Sort y comparación](../unidad12-ordenamiento-avanzado/README.md)
